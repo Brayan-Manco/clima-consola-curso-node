@@ -1,0 +1,13 @@
+Clonar el proyecto 
+
+npm i -- para instalar todas las dependencias
+
+configuarar las variables de entorno
+
+para hacer esto debdes de tener el key de mapbox y open weather
+
+MAPBOX_KEY=
+OPENWEATHER=
+MAPBOX_KEY2=
+
+npm run start
